@@ -1,0 +1,23 @@
+  <!--
+td {vertical-align: top;}
+  -->
+  body {
+  background: #111144;
+  color: #fff;
+  }
+  input[type='text'],
+  select
+{
+	padding: 7px;
+	
+	background-color: #fff;
+	border: 1px solid #222222;
+
+	border-radius: 5px;
+
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+
+	x-webkit-appearance: none;
+}
